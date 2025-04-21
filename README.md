@@ -1,2 +1,2 @@
-# BWT-JUNAID-B006
-THIS ARE THE PROJECTS THAT I BUILT AFTER LEARNING THE BASIC WEB TECHNOLOGY SUBJECT
+# junaid-B06
+this are the project that i had done under the basic web techology subject
